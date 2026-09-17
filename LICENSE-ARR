@@ -1,0 +1,19 @@
+## License and Copyright
+
+This project uses a split-licensing model to protect the creator's intellectual property while allowing the community to learn from the source code.
+
+**1. Source Code (GNU AGPLv3)**
+The source code (GDScript files, project structure, logic) of this game is licensed under the **GNU Affero General Public License v3.0**. See the `LICENSE` file for more details. 
+*Note: If you use this code in your own project, or allow users to interact with it remotely over a network, you are legally required to open-source your entire project under the same AGPLv3 license.*
+
+**2. Game Assets and Branding (All Rights Reserved)**
+Copyright (c) 2026 Andrii Liashenko (Devs In Exile Studio). All Rights Reserved.
+
+All non-code assets, including but not limited to:
+- Graphical assets (sprites, backgrounds, UI elements, icons)
+- Audio files (music, sound effects)
+- Level designs and puzzle layouts
+- The game title, logo, and branding
+
+Are **STRICTLY PROPRIETARY** and are **NOT** covered by the AGPLv3 license. 
+You may NOT copy, distribute, modify, commercialize, or use these assets in any other project without explicit written permission from the copyright holder. If you intend to compile and run this project, you must replace all proprietary graphics, audio, and branding with your own original content.
